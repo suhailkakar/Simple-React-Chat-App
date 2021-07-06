@@ -1,2 +1,3 @@
-# Simple-React-Chat-App
-Simple Chat App made with React and Firebase
+### Built With
+* [React JS](https://reactjs.org/)
+* [Firebase](https://firebase.google.com/)
